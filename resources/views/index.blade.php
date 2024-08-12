@@ -1,9 +1,9 @@
-@extends(Dcat\Admin\Auth\AuthServiceProvider::instance()->getName().'::login_base')
+@extends(AdminExtAuth\AuthServiceProvider::instance()->getName().'::login_base')
 @section('content')
     @if($config['2fa'])
-    @include(Dcat\Admin\Auth\AuthServiceProvider::instance()->getName().'::login_2fa')
+    @include(AdminExtAuth\AuthServiceProvider::instance()->getName().'::login_2fa')
     @endif
-    @include(Dcat\Admin\Auth\AuthServiceProvider::instance()->getName().'::login_remember')
+    @include(AdminExtAuth\AuthServiceProvider::instance()->getName().'::login_remember')
     <fieldset class="form-label-group form-group position-relative has-icon-left">
         <input type="hidden" id="token" name="token" value="">
         <div class="help-block with-errors"></div>
@@ -16,7 +16,7 @@
               </span>
         @endif
     </fieldset>
-    @include(Dcat\Admin\Auth\AuthServiceProvider::instance()->getName().'::login_button')
+    @include(AdminExtAuth\AuthServiceProvider::instance()->getName().'::login_button')
 @endsection
 @section('js')
     @if($config['key'])
