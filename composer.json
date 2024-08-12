@@ -3,13 +3,13 @@
     "alias": "",
     "description": "Description...",
     "type": "library",
-    "keywords": ["dcat-admin", "extension"],
+    "keywords": ["dcat-admin", "auth", "extension"],
     "homepage": "https://github.com/binbinly/dcat-admin-auth",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "binbinly",
+            "email": "binbinly@hotmail.com"
         }
     ],
     "require": {
