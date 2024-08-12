@@ -1,7 +1,7 @@
 {
     "name": "binbinly/dcat-admin-auth",
     "alias": "",
-    "description": "Description...",
+    "description": "dcat-admin ext login auth",
     "type": "library",
     "keywords": ["dcat-admin", "auth", "extension"],
     "homepage": "https://github.com/binbinly/dcat-admin-auth",
