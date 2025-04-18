@@ -1,0 +1,41 @@
+2024-08-21 19:25:35,145 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2024-08-21 19:25:35,158 INFO o.a.j.JMeter: Loading user properties from: /Users/bin/Tools/jmeter/bin/user.properties
+2024-08-21 19:25:35,158 INFO o.a.j.JMeter: Loading system properties from: /Users/bin/Tools/jmeter/bin/system.properties
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: Version 5.6.3
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: java.version=22.0.2
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: os.name=Mac OS X
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: os.arch=aarch64
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: os.version=14.4
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: java.awt.headless=null
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-08-21 19:25:35,161 INFO o.a.j.JMeter: Available Processors =11
+2024-08-21 19:25:35,166 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-08-21 19:25:35,166 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2024-08-21 19:25:35,166 INFO o.a.j.JMeter: JMeterHome=/Users/bin/Tools/jmeter
+2024-08-21 19:25:35,166 INFO o.a.j.JMeter: user.dir  =/Users/bin/Projects/libs/dcat-admin-auth
+2024-08-21 19:25:35,166 INFO o.a.j.JMeter: PWD       =/Users/bin/Projects/libs/dcat-admin-auth
+2024-08-21 19:25:35,171 INFO o.a.j.JMeter: IP: 192.168.5.5 Name: 192.168.5.5 FullName: 192.168.5.5
+2024-08-21 19:25:35,177 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-08-21 19:25:35,425 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-08-21 19:27:01,408 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: /Users/bin/Tools/jmeter/bin/templates/templates.xml
+2024-08-21 19:27:08,759 INFO o.a.j.s.FileServer: Default base='/Users/bin/Projects/libs/dcat-admin-auth'
+2024-08-21 19:28:43,355 INFO o.a.j.g.a.Load: Loading file: /Users/bin/Tools/jmeter/bin/templates/测试计划.jmx
+2024-08-21 19:28:43,355 INFO o.a.j.s.FileServer: Set new base='/Users/bin/Tools/jmeter/bin/templates'
+2024-08-21 19:28:43,429 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-08-21 19:28:43,445 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-08-21 19:28:43,445 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-08-21 19:28:43,446 INFO o.a.j.s.SaveService: Loading file: /Users/bin/Tools/jmeter/bin/templates/测试计划.jmx
+2024-08-21 19:28:43,461 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-21 19:28:43,461 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-21 19:28:43,461 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-21 19:28:43,461 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-21 19:28:43,461 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-08-21 19:28:43,461 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-08-21 19:28:43,586 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-08-21 19:28:43,586 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-08-21 19:28:43,587 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-08-21 19:28:43,587 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-08-21 19:28:43,690 INFO o.a.j.s.FileServer: Set new base='/Users/bin/Tools/jmeter/bin/templates'

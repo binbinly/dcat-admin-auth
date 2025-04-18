@@ -13,7 +13,7 @@ class AuthCheck
     {
         // 单用户登陆验证
         if(Admin::user() && Admin::user()->last_session && Session::getId() != Admin::user()->last_session){
-            if($request->path() != 'auth/logout') {
+            if (!str_contains($request->path(), 'auth/logout')) {
                 return admin_redirect('/auth/logout');
             }
         }
